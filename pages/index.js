@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Teste 3</h1>
+    return <h1>Você é o amor da minha vida </h1>
 }
 
 // Export -> Joga para fora
